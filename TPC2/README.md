@@ -16,3 +16,5 @@ Foram apenas trabalhados os padrões mais comuns do Markdown, nomeadamente:
 - **Listas:** `-  this is an unordered list element`, `1. this is an ordered list element`
 - **Images:** `![this is an image title](this is an image url)`
 - **Links:** `[this is a link text](this is a link url)`
+
+A minha solução recebe como argumento um caminho para um ficheiro Markdown e escreve o resultado num ficheiro HTML com o mesmo nome na mesma diretoria onde se encontra `main.py`.
